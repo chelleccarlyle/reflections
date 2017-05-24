@@ -21,3 +21,7 @@ Show how they are related by showing commits that are in different branches or w
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 A commit that contains commits of both branches. It combines the commits of both branches into one based on the origin branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Git’s automatic can figure out which lines of code to delete and add to the updated program. Manual merging is good for more complicated updates, specifically when two people have two versions of the same area of code. (more complicated); allows users to decide which to include and not
