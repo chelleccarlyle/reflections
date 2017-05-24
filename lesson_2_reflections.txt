@@ -13,3 +13,7 @@ If there is only one file per staging area, or the difference between working di
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 For experimenting different versions of your program. Doing testing instead of changing the original/official state of the program.
+
+How do the diagrams help you visualize the branch structure?
+
+Show how they are related by showing commits that are in different branches or whether or not it does not belong to a branch (detached head). They are reachable by their parent.
