@@ -17,3 +17,7 @@ For experimenting different versions of your program. Doing testing instead of c
 How do the diagrams help you visualize the branch structure?
 
 Show how they are related by showing commits that are in different branches or whether or not it does not belong to a branch (detached head). They are reachable by their parent.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A commit that contains commits of both branches. It combines the commits of both branches into one based on the origin branch.
