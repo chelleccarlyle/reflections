@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Creates a metadata of git, which tracks all the files and their history.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It shows which files exactly are to be added to a repository/commit. 
