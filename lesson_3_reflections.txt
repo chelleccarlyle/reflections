@@ -9,3 +9,7 @@ There might be commits in GitHub that you don’t want personally. For example, 
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Forks are good for getting a copy of another user directly in Github (good for collaboration). Clone is good for making copies locally or from Github to local computer. Branches are good to make different versions of a program.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It allows the user to make commits and changes locally while combining changes from Github via remote and merging them without creating conflict and/or deleting opposite commits and changes. It also keeps track what is more up to date via local and GitHub.
