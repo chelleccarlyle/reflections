@@ -1,3 +1,7 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
 If you want to collaborate with other people, and work on the same project. Gather and share code with other people.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+There might be commits in GitHub that you don’t want personally. For example, one commit can be from another user, and you don’t want that because it is code for a different version of a program.
