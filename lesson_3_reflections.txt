@@ -5,3 +5,7 @@ If you want to collaborate with other people, and work on the same project. Gath
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 There might be commits in GitHub that you don’t want personally. For example, one commit can be from another user, and you don’t want that because it is code for a different version of a program.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks are good for getting a copy of another user directly in Github (good for collaboration). Clone is good for making copies locally or from Github to local computer. Branches are good to make different versions of a program.
