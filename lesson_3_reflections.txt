@@ -17,3 +17,7 @@ It allows the user to make commits and changes locally while combining changes f
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I don’t know, that would be hard. It will be easier because you can transfer files via usb or hard drive. But doing it online is more harder. And providing organization would be harder as well. Also, messaging would be the same because you can just chat online.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To make sure that the original program or final program does not get modified or broken. It just provides a way of keeping track of different versions from different users/collaborators. It’s a more fail-proof way of updating and making changes to a program when working with other people.
