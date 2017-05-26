@@ -13,3 +13,7 @@ Forks are good for getting a copy of another user directly in Github (good for c
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It allows the user to make commits and changes locally while combining changes from Github via remote and merging them without creating conflict and/or deleting opposite commits and changes. It also keeps track what is more up to date via local and GitHub.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I don’t know, that would be hard. It will be easier because you can transfer files via usb or hard drive. But doing it online is more harder. And providing organization would be harder as well. Also, messaging would be the same because you can just chat online.
